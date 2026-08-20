@@ -1,0 +1,16 @@
+{
+    "name": "giusephesilva/buscador-cursos",
+    "description": "Projeto que busca os cursos no site da alura",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Giusephe",
+            "email": "giusephesilva@hotmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^8.0",
+        "symfony/dom-crawler": "^8.1",
+        "symfony/css-selector": "^8.1"
+    }
+}
